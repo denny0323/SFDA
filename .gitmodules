@@ -1,0 +1,9 @@
+[submodule "TransTab"]
+	path = TransTab
+	url = https://github.com/RyanWangZf/transtab.git
+[submodule "TransDA"]
+	path = TransDA
+	url = https://github.com/ygjwd12345/TransDA.git
+[submodule "GReaT"]
+	path = GReaT
+	url = https://github.com/kathrinse/be_great.git
